@@ -1,0 +1,29 @@
+.custInput {
+  height: 60px;
+}
+
+.sideImg {
+  margin-left: 75%;
+}
+
+.custBtn {
+  font-weight: 500;
+  width: 50%;
+  height: 60px;
+  color: white;
+  background-color: #f78f10;
+  border: 1px solid white;
+}
+
+.signupBtn {
+  color: #f78f10;
+}
+
+.custBtn:hover {
+  font-weight: 900;
+  background-color: #f78f10;
+  border: 1px solid white;
+  -webkit-transform: scale(1, 1);
+          transform: scale(1, 1);
+}
+/*# sourceMappingURL=login.css.map */

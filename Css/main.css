@@ -10,6 +10,7 @@
 
 .nav-btn1 {
   background-color: transparent;
+  color: black;
   font-weight: bold;
   margin-right: 20px;
 }
@@ -23,6 +24,12 @@
   color: white;
   border-radius: 0;
   margin-right: 20px;
+  font-weight: 500;
+}
+
+.nav-btn2:hover {
+  color: white;
+  font-weight: 700;
 }
 
 .header-text {
@@ -95,7 +102,7 @@ img {
 }
 
 .footer .subFooter {
-  margin: 5% 10%;
+  margin: 1% 10%;
 }
 
 .footerRow a {
@@ -104,7 +111,20 @@ img {
 
 .footerImg img {
   width: 200px;
-  height: 70px;
+  height: 60px;
   margin: 40px 20px 20px 20px;
+}
+
+.footerRow p {
+  color: gray;
+}
+
+.footerRow a {
+  color: white;
+}
+
+.footerRow a:hover {
+  font-weight: bold;
+  text-decoration: none;
 }
 /*# sourceMappingURL=main.css.map */

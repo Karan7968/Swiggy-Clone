@@ -1,0 +1,27 @@
+.custInput{
+    height: 60px;
+}
+
+.sideImg{
+    margin-left: 75%;
+}
+
+.custBtn{
+    font-weight: 500;
+    width: 50%;
+    height: 60px;
+    color: white;
+    background-color: rgb(247, 143, 16);
+    border: 1px solid white;
+}
+
+.signupBtn{
+    color: rgb(247, 143, 16);
+}
+
+.custBtn:hover{
+    font-weight: 900;
+    background-color: rgb(247, 143, 16);
+    border: 1px solid white;
+    transform: scale(1, 1);
+}
